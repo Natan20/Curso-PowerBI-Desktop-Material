@@ -1,0 +1,221 @@
+﻿Cliente,Segmento,Região,Estado,Cidade
+Cliente 0001,Varejo,Centro-Oeste,GO,Goiânia
+Cliente 0002,Atacado,Norte,AM,Manaus
+Cliente 0003,Varejo,Norte,PA,Belém
+Cliente 0004,Varejo,Sul,RS,Porto Alegre
+Cliente 0005,Varejo,Sudeste,RJ,Rio de Janeiro
+Cliente 0006,Varejo,Norte,TO,Palmas
+Cliente 0007,Corporativo,Sul,RS,Porto Alegre
+Cliente 0008,Varejo,Sul,RS,Porto Alegre
+Cliente 0009,Corporativo,Sudeste,SP,São Paulo
+Cliente 0010,Corporativo,Norte,TO,Palmas
+Cliente 0011,Varejo,Centro-Oeste,MT,Cuiabá
+Cliente 0012,Varejo,Norte,TO,Palmas
+Cliente 0013,Varejo,Nordeste,BA,Salvador
+Cliente 0014,Varejo,Nordeste,PE,Recife
+Cliente 0015,Varejo,Norte,TO,Palmas
+Cliente 0016,Atacado,Nordeste,PE,Recife
+Cliente 0017,Varejo,Sudeste,RJ,Rio de Janeiro
+Cliente 0018,Varejo,Sudeste,RJ,Rio de Janeiro
+Cliente 0019,Atacado,Nordeste,CE,Fortaleza
+Cliente 0020,Varejo,Norte,TO,Palmas
+Cliente 0021,Atacado,Sudeste,RJ,Rio de Janeiro
+Cliente 0022,Corporativo,Centro-Oeste,DF,Brasília
+Cliente 0023,Varejo,Norte,TO,Palmas
+Cliente 0024,Corporativo,Centro-Oeste,GO,Goiânia
+Cliente 0025,Corporativo,Sudeste,SP,São Paulo
+Cliente 0026,Varejo,Norte,TO,Palmas
+Cliente 0027,Atacado,Centro-Oeste,MT,Cuiabá
+Cliente 0028,Varejo,Sul,PR,Curitiba
+Cliente 0029,Atacado,Sudeste,SP,São Paulo
+Cliente 0030,Atacado,Centro-Oeste,MT,Cuiabá
+Cliente 0031,Atacado,Norte,AM,Manaus
+Cliente 0032,Varejo,Centro-Oeste,DF,Brasília
+Cliente 0033,Atacado,Sudeste,RJ,Rio de Janeiro
+Cliente 0034,Corporativo,Centro-Oeste,GO,Goiânia
+Cliente 0035,Atacado,Centro-Oeste,GO,Goiânia
+Cliente 0036,Varejo,Sudeste,SP,São Paulo
+Cliente 0037,Atacado,Centro-Oeste,GO,Goiânia
+Cliente 0038,Corporativo,Sudeste,RJ,Rio de Janeiro
+Cliente 0039,Varejo,Sudeste,SP,São Paulo
+Cliente 0040,Varejo,Sudeste,MG,Belo Horizonte
+Cliente 0041,Corporativo,Nordeste,PE,Recife
+Cliente 0042,Varejo,Centro-Oeste,DF,Brasília
+Cliente 0043,Corporativo,Centro-Oeste,DF,Brasília
+Cliente 0044,Varejo,Nordeste,BA,Salvador
+Cliente 0045,Atacado,Nordeste,BA,Salvador
+Cliente 0046,Atacado,Norte,PA,Belém
+Cliente 0047,Varejo,Nordeste,PE,Recife
+Cliente 0048,Varejo,Nordeste,PE,Recife
+Cliente 0049,Varejo,Sul,SC,Florianópolis
+Cliente 0050,Corporativo,Nordeste,CE,Fortaleza
+Cliente 0051,Atacado,Sul,SC,Florianópolis
+Cliente 0052,Corporativo,Norte,PA,Belém
+Cliente 0053,Varejo,Sul,PR,Curitiba
+Cliente 0054,Varejo,Sudeste,SP,São Paulo
+Cliente 0055,Varejo,Sudeste,SP,São Paulo
+Cliente 0056,Varejo,Nordeste,PE,Recife
+Cliente 0057,Varejo,Centro-Oeste,DF,Brasília
+Cliente 0058,Varejo,Norte,TO,Palmas
+Cliente 0059,Atacado,Norte,PA,Belém
+Cliente 0060,Atacado,Norte,AM,Manaus
+Cliente 0061,Varejo,Nordeste,CE,Fortaleza
+Cliente 0062,Varejo,Centro-Oeste,DF,Brasília
+Cliente 0063,Atacado,Norte,AM,Manaus
+Cliente 0064,Varejo,Sudeste,RJ,Rio de Janeiro
+Cliente 0065,Varejo,Norte,AM,Manaus
+Cliente 0066,Varejo,Centro-Oeste,DF,Brasília
+Cliente 0067,Varejo,Nordeste,CE,Fortaleza
+Cliente 0068,Varejo,Sul,PR,Curitiba
+Cliente 0069,Atacado,Sul,RS,Porto Alegre
+Cliente 0070,Corporativo,Centro-Oeste,DF,Brasília
+Cliente 0071,Varejo,Centro-Oeste,DF,Brasília
+Cliente 0072,Atacado,Nordeste,PE,Recife
+Cliente 0073,Atacado,Sul,SC,Florianópolis
+Cliente 0074,Varejo,Centro-Oeste,DF,Brasília
+Cliente 0075,Atacado,Nordeste,BA,Salvador
+Cliente 0076,Varejo,Nordeste,BA,Salvador
+Cliente 0077,Varejo,Centro-Oeste,DF,Brasília
+Cliente 0078,Varejo,Norte,PA,Belém
+Cliente 0079,Atacado,Nordeste,CE,Fortaleza
+Cliente 0080,Atacado,Centro-Oeste,MT,Cuiabá
+Cliente 0081,Varejo,Centro-Oeste,MT,Cuiabá
+Cliente 0082,Varejo,Norte,AM,Manaus
+Cliente 0083,Varejo,Centro-Oeste,GO,Goiânia
+Cliente 0084,Varejo,Sul,RS,Porto Alegre
+Cliente 0085,Varejo,Centro-Oeste,DF,Brasília
+Cliente 0086,Atacado,Norte,PA,Belém
+Cliente 0087,Corporativo,Nordeste,PE,Recife
+Cliente 0088,Varejo,Sudeste,MG,Belo Horizonte
+Cliente 0089,Varejo,Sudeste,RJ,Rio de Janeiro
+Cliente 0090,Varejo,Norte,TO,Palmas
+Cliente 0091,Varejo,Nordeste,BA,Salvador
+Cliente 0092,Varejo,Sudeste,MG,Belo Horizonte
+Cliente 0093,Atacado,Sul,PR,Curitiba
+Cliente 0094,Varejo,Centro-Oeste,GO,Goiânia
+Cliente 0095,Varejo,Nordeste,BA,Salvador
+Cliente 0096,Atacado,Norte,TO,Palmas
+Cliente 0097,Corporativo,Nordeste,PE,Recife
+Cliente 0098,Varejo,Nordeste,BA,Salvador
+Cliente 0099,Varejo,Nordeste,PE,Recife
+Cliente 0100,Varejo,Sul,PR,Curitiba
+Cliente 0101,Varejo,Sudeste,SP,São Paulo
+Cliente 0102,Atacado,Centro-Oeste,MT,Cuiabá
+Cliente 0103,Atacado,Sul,PR,Curitiba
+Cliente 0104,Varejo,Sul,RS,Porto Alegre
+Cliente 0105,Varejo,Sul,SC,Florianópolis
+Cliente 0106,Atacado,Sudeste,SP,São Paulo
+Cliente 0107,Varejo,Nordeste,BA,Salvador
+Cliente 0108,Varejo,Sul,SC,Florianópolis
+Cliente 0109,Atacado,Norte,PA,Belém
+Cliente 0110,Varejo,Sul,SC,Florianópolis
+Cliente 0111,Varejo,Norte,TO,Palmas
+Cliente 0112,Varejo,Nordeste,PE,Recife
+Cliente 0113,Varejo,Norte,TO,Palmas
+Cliente 0114,Varejo,Norte,AM,Manaus
+Cliente 0115,Atacado,Sul,SC,Florianópolis
+Cliente 0116,Varejo,Nordeste,CE,Fortaleza
+Cliente 0117,Atacado,Sul,SC,Florianópolis
+Cliente 0118,Atacado,Sul,RS,Porto Alegre
+Cliente 0119,Corporativo,Centro-Oeste,DF,Brasília
+Cliente 0120,Varejo,Nordeste,PE,Recife
+Cliente 0121,Varejo,Norte,PA,Belém
+Cliente 0122,Varejo,Norte,TO,Palmas
+Cliente 0123,Atacado,Norte,AM,Manaus
+Cliente 0124,Corporativo,Norte,AM,Manaus
+Cliente 0125,Varejo,Centro-Oeste,GO,Goiânia
+Cliente 0126,Varejo,Nordeste,PE,Recife
+Cliente 0127,Corporativo,Norte,PA,Belém
+Cliente 0128,Atacado,Nordeste,CE,Fortaleza
+Cliente 0129,Varejo,Nordeste,CE,Fortaleza
+Cliente 0130,Varejo,Sul,PR,Curitiba
+Cliente 0131,Varejo,Nordeste,PE,Recife
+Cliente 0132,Varejo,Centro-Oeste,GO,Goiânia
+Cliente 0133,Atacado,Sudeste,RJ,Rio de Janeiro
+Cliente 0134,Varejo,Sudeste,RJ,Rio de Janeiro
+Cliente 0135,Corporativo,Centro-Oeste,DF,Brasília
+Cliente 0136,Corporativo,Norte,AM,Manaus
+Cliente 0137,Varejo,Norte,AM,Manaus
+Cliente 0138,Varejo,Norte,AM,Manaus
+Cliente 0139,Atacado,Nordeste,PE,Recife
+Cliente 0140,Varejo,Centro-Oeste,MT,Cuiabá
+Cliente 0141,Varejo,Sul,SC,Florianópolis
+Cliente 0142,Varejo,Centro-Oeste,GO,Goiânia
+Cliente 0143,Corporativo,Nordeste,PE,Recife
+Cliente 0144,Atacado,Centro-Oeste,GO,Goiânia
+Cliente 0145,Atacado,Centro-Oeste,GO,Goiânia
+Cliente 0146,Varejo,Nordeste,BA,Salvador
+Cliente 0147,Varejo,Norte,PA,Belém
+Cliente 0148,Corporativo,Sul,PR,Curitiba
+Cliente 0149,Varejo,Centro-Oeste,DF,Brasília
+Cliente 0150,Varejo,Sul,SC,Florianópolis
+Cliente 0151,Varejo,Norte,AM,Manaus
+Cliente 0152,Corporativo,Nordeste,BA,Salvador
+Cliente 0153,Atacado,Centro-Oeste,DF,Brasília
+Cliente 0154,Varejo,Centro-Oeste,MT,Cuiabá
+Cliente 0155,Varejo,Nordeste,PE,Recife
+Cliente 0156,Varejo,Norte,PA,Belém
+Cliente 0157,Varejo,Norte,TO,Palmas
+Cliente 0158,Varejo,Nordeste,CE,Fortaleza
+Cliente 0159,Atacado,Sudeste,SP,São Paulo
+Cliente 0160,Varejo,Sudeste,MG,Belo Horizonte
+Cliente 0161,Varejo,Sudeste,MG,Belo Horizonte
+Cliente 0162,Varejo,Nordeste,BA,Salvador
+Cliente 0163,Corporativo,Nordeste,PE,Recife
+Cliente 0164,Varejo,Norte,AM,Manaus
+Cliente 0165,Varejo,Centro-Oeste,MT,Cuiabá
+Cliente 0166,Atacado,Norte,TO,Palmas
+Cliente 0167,Corporativo,Sul,SC,Florianópolis
+Cliente 0168,Atacado,Sul,RS,Porto Alegre
+Cliente 0169,Varejo,Norte,PA,Belém
+Cliente 0170,Varejo,Centro-Oeste,MT,Cuiabá
+Cliente 0171,Corporativo,Centro-Oeste,MT,Cuiabá
+Cliente 0172,Varejo,Sul,PR,Curitiba
+Cliente 0173,Varejo,Centro-Oeste,GO,Goiânia
+Cliente 0174,Varejo,Norte,PA,Belém
+Cliente 0175,Varejo,Sudeste,RJ,Rio de Janeiro
+Cliente 0176,Varejo,Nordeste,BA,Salvador
+Cliente 0177,Varejo,Norte,AM,Manaus
+Cliente 0178,Varejo,Norte,AM,Manaus
+Cliente 0179,Varejo,Norte,PA,Belém
+Cliente 0180,Varejo,Centro-Oeste,DF,Brasília
+Cliente 0181,Corporativo,Sul,SC,Florianópolis
+Cliente 0182,Corporativo,Nordeste,CE,Fortaleza
+Cliente 0183,Atacado,Sul,PR,Curitiba
+Cliente 0184,Varejo,Sudeste,SP,São Paulo
+Cliente 0185,Varejo,Sul,SC,Florianópolis
+Cliente 0186,Varejo,Sul,SC,Florianópolis
+Cliente 0187,Corporativo,Sul,RS,Porto Alegre
+Cliente 0188,Atacado,Sul,SC,Florianópolis
+Cliente 0189,Varejo,Norte,TO,Palmas
+Cliente 0190,Varejo,Nordeste,BA,Salvador
+Cliente 0191,Varejo,Nordeste,CE,Fortaleza
+Cliente 0192,Atacado,Norte,PA,Belém
+Cliente 0193,Atacado,Sul,RS,Porto Alegre
+Cliente 0194,Varejo,Sul,SC,Florianópolis
+Cliente 0195,Varejo,Centro-Oeste,GO,Goiânia
+Cliente 0196,Corporativo,Norte,TO,Palmas
+Cliente 0197,Atacado,Sul,RS,Porto Alegre
+Cliente 0198,Atacado,Norte,TO,Palmas
+Cliente 0199,Atacado,Centro-Oeste,GO,Goiânia
+Cliente 0200,Atacado,Nordeste,CE,Fortaleza
+Cliente 0201,Atacado,Nordeste,CE,Fortaleza
+Cliente 0202,Atacado,Sudeste,RJ,Rio de Janeiro
+Cliente 0203,Corporativo,Norte,PA,Belém
+Cliente 0204,Atacado,Centro-Oeste,GO,Goiânia
+Cliente 0205,Varejo,Nordeste,BA,Salvador
+Cliente 0206,Atacado,Centro-Oeste,MT,Cuiabá
+Cliente 0207,Varejo,Centro-Oeste,DF,Brasília
+Cliente 0208,Varejo,Norte,PA,Belém
+Cliente 0209,Varejo,Centro-Oeste,DF,Brasília
+Cliente 0210,Varejo,Nordeste,CE,Fortaleza
+Cliente 0211,Varejo,Sul,PR,Curitiba
+Cliente 0212,Corporativo,Sudeste,SP,São Paulo
+Cliente 0213,Varejo,Sul,RS,Porto Alegre
+Cliente 0214,Varejo,Norte,PA,Belém
+Cliente 0215,Atacado,Sudeste,SP,São Paulo
+Cliente 0216,Varejo,Sudeste,RJ,Rio de Janeiro
+Cliente 0217,Varejo,Nordeste,BA,Salvador
+Cliente 0218,Varejo,Nordeste,CE,Fortaleza
+Cliente 0219,Atacado,Centro-Oeste,GO,Goiânia
+Cliente 0220,Corporativo,Sul,PR,Curitiba
